@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "3-Ressourcen/Zotero",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n# {{title}}\n##### {{authorString}} ({{year}})\n\n[PDF](3-Ressourcen/Zotero/pdfs/{{citekey}}.pdf)\n[Zotero-Link]({{zoteroSelectURI}})\n\nTags:\n\n>[!ABSTRACT]-\n>{{abstract}}\n\n---",
+  "markdownCitationTemplate": "[[@{{citekey}}]]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "Ressourcen/Zotero/Meine Bibliothek.bib"
+}

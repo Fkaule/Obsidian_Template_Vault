@@ -1,0 +1,34 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:toggle-checklist-status",
+    "editor:set-heading",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:attach-file",
+    "editor:insert-embed",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ],
+  "attachmentFolderPath": "Ressourcen/Anhaenge",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "root"
+}

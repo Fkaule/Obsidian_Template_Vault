@@ -1,0 +1,67 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-citation-plugin:open-literature-note",
+      "icon": "bookmark",
+      "name": "Citations: Open literature note",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-citation-plugin:insert-markdown-citation",
+      "icon": "bookmark-plus",
+      "name": "Citations: Insert Markdown citation",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-zotero-desktop-connector:zdc-insert-notes",
+      "icon": "book-open",
+      "name": "Zotero Integration: Insert notes into current document",
+      "mode": "any"
+    },
+    {
+      "id": "readwise-official:readwise-official-sync",
+      "icon": "repeat",
+      "name": "Readwise Official: Sync your data now",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+      "icon": "pen-tool",
+      "name": "Excalidraw: Create new drawing - IN A NEW TAB - and embed into active document",
+      "mode": "any",
+      "color": "#e83030"
+    },
+    {
+      "id": "slides:start",
+      "icon": "lucide-monitor",
+      "name": "Slides: Start presentation",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
